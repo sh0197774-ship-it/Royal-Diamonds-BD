@@ -2,8 +2,8 @@
   "logo": "logo-1794506045768.png",
   "ffBanner": null,
   "banners": [
-    "default:Banner 2.jpg",
     "default:Banner 3.jpg",
+    "default:Banner 2.jpg",
     "default:Banner 1.jpg"
   ],
   "quick": null,
