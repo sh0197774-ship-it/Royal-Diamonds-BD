@@ -9,5 +9,7 @@
   "quick": null,
   "images": null,
   "prod": null,
-  "texts": null
+  "texts": {
+    "siteName": "ROYAL DIAMOND TOPUP"
+  }
 }
